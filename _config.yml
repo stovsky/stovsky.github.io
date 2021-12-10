@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Want to get in touch? Feel free to contact me below, I'm always open to new opportunites!
+contact_description: "<h3 style='text-align: center'>Want to get in touch? Feel free to contact me below, I'm always open to new opportunites!</h3> <h3 style='text-align: center'>My email is <text style='color: #FF69B4'>tylerstovsky@gmail.com</text></h3>"
 
 # GITHUB-METADATA
 # Set this to your forked repository
