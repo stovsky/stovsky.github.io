@@ -13,21 +13,12 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: BruinSource
+  descr: "<p>An open source project collaboration service for university students who wish to join open source projects as external collaborators.</p> <ul> <li>Worked in a group to design and develop a full-stack web application for UCLA students</li> <li>Helped to develop and maintain a backend which can meaningfully search through server-side data to be delivered to the frontend</li> <li>Collaborated with my team to design and implement the frontend which uses tables to dynamically display user data</li></ul>"
   tags:
-    - tag: MongoDB
+    - tag: JavaScript
     - tag: Express
-    - tag: AngularJS
+    - tag: React
     - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: PostgreSQL
+    - tag: HTML/CSS
