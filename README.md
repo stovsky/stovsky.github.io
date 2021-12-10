@@ -19,4 +19,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * Social Button Animation by [Stéphane Lyver](https://codepen.io/wouwi/pen/Lwrmi)
 * Adapted [Damian Jankowski's](https://codepen.io/dolaron/pen/rNadmOE) color palette for the neumorphism design
 * Based Timeline on [Krishna Babu's](https://codepen.io/krishnab/pen/OPwqbW) version
-* Template from [Long Do] (https://github.com/longpdo/neumorphism)
+* Template from [Long Do](https://github.com/longpdo/neumorphism)
