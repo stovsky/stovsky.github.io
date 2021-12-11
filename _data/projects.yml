@@ -22,3 +22,11 @@
     - tag: Node
     - tag: PostgreSQL
     - tag: HTML/CSS
+
+- name: Personal Website
+  descr: "<p>A website to display my portfolio, hosted on GitHub Pages.</p> <ul> <li>Worked with open-source libraries to customize and design my website</li> <li>Used the GitHub MetaData Plugin to display repository metadata from my GitHub account</li></ul>"
+  tags:
+    - tag: Jekyll
+    - tag: Ruby
+    - tag: HTML/CSS
+    - tag: rbenv
