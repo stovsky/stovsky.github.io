@@ -86,7 +86,7 @@ contact_description: "<h3 style='text-align: center'>Want to get in touch? Feel 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: stovsky/personal-site
+repository: stovsky/stovsky.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
