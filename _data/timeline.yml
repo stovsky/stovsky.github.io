@@ -17,21 +17,21 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: TagBox
-  title-url: https://www.tagbox.io/
-  date: June 2022 - August 2022
-  subtitle: <ul> <li>Developed automation scripts to extensively test the web application</li> <li>Participated in the design of existing and new projects</li> <li>Created testing strategies and performed code testing before every release</li> <li>Quickly learned new technologies and protocols to better understand and test features</li> </ul>
-  tags:
-    - tag: Software Test Engineer Intern
-  timeline-side: right
-
-
 - title: MentorSEAS at UCLA
   title-url: http://mentorship.seas.ucla.edu/
   date: May 2022 - Present
   subtitle: <ul> <li>At the heart of the UCLA School of Engineering, MentorSEAS aims to guide young, aspiring engineers through UCLA’s academic and societal environment</li> </ul>
   tags:
     - tag: Mentor
+  timeline-side: right
+
+
+- title: TagBox
+  title-url: https://www.tagbox.io/
+  date: June 2022 - August 2022
+  subtitle: <ul> <li>Developed automation scripts to extensively test the web application</li> <li>Participated in the design of existing and new projects</li> <li>Created testing strategies and performed code testing before every release</li> <li>Quickly learned new technologies and protocols to better understand and test features</li> </ul>
+  tags:
+    - tag: Software Test Engineer Intern
   timeline-side: left
   
 
@@ -45,7 +45,7 @@
 
 - title: Tyler Jordan Brand, LLC
   title-url: https://tylerjordanbrand.com
-  date: May 2020 - Sept 2021
+  date: May 2020 - September 2021
   subtitle: <ul> <li>Founded and operated a clothing design company focused on repurposing vintage clothing for the modern customer</li> </ul>
   tags:
     - tag: Founder
