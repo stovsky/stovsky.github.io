@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "<h2>Hey everyone! I'm Tyler. I am a third year Computer Science student at UCLA, currently seeking an internship for Summer 2023.</h2> <h2>Relevant Coursework: Logic Design of Digital Systems, Software Construction, Operating Systems Principles, Computer Organization, Algorithms and Complexity, Fundamentals of Artificial Intelligence, Formal Languages and Automata Theory</h2>"
+about_me_description: "<h2>Hey everyone! I'm Tyler. I am a third year Computer Science student at UCLA, currently seeking an internship for Summer 2023.</h2> <h2>Relevant Coursework:</h2> <h2><ul><li>Logic Design of Digital Systems</li> <li>Software Construction</li> <li>Operating Systems Principles</li> <li>Computer Organization</li> <li>Algorithms and Complexity</li> <li>Fundamentals of Artificial Intelligence</li> <li>Formal Languages and Automata Theory</li></ul></h2>"
 
 # SKILLS SECTION
 # show_skills_card:
